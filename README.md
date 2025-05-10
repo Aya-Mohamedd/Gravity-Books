@@ -183,7 +183,7 @@ In the final phase, I developed interactive **Power BI** reports and dashboards,
 <hr>
 <hr>
 
-**I welcome feedback, suggestions, and contributions to improve this project! Feel free to reach out or collaborate to make it even better. 😊**
+**I welcome feedback, suggestions, and contributions to improve this project! Feel free to reach out or collaborate to make it even better.**
 
 
 
