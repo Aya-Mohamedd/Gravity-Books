@@ -1,4 +1,4 @@
-<h1> Gravity Books Data Warehouse Project </h1>
+# Gravity Books Data Warehouse Project 
 ![Logo](https://github.com/Aya-Mohamedd/Gravity-Books/blob/main/Screenshots/Logo.png)
 <h3>1. Problem Overview</h3>
     Gravity Bookstore is a fictional bookstore that needed a robust system to manage and analyze its data effectively. The bookstore had a transactional database (Gravity_Books) that stored           
