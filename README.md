@@ -1,4 +1,5 @@
 <h1> Gravity Books Data Warehouse Project </h1>
+![Logo](https://github.com/Aya-Mohamedd/Gravity-Books/blob/main/Screenshots/Logo.png)
 <h3>1. Problem Overview</h3>
     Gravity Bookstore is a fictional bookstore that needed a robust system to manage and analyze its data effectively. The bookstore had a transactional database (Gravity_Books) that stored           
     information about books, customers, orders, and sales. However, the existing system lacked the capability to perform advanced analytics, generate insightful reports, and track historical changes       in data. The goal of this project was to design and implement a data warehouse (Gravity_Books_DWH) and create Business Intelligence (BI) reports to help the bookstore gain valuable insights into       its operations.
